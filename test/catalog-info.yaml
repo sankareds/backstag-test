@@ -6,3 +6,4 @@ spec:
   type: website
   lifecycle: experimental
   owner: user:guest
+  system: test
