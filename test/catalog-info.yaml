@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "test"
   annotations:
-    backstage.io/kubernetes-label-selector: 'test'
+    backstage.io/kubernetes-label-selector: 'backstage.io/kubernetes-id=test'
 spec:
   type: website
   lifecycle: experimental
