@@ -4,8 +4,8 @@ metadata:
   name: test
   description: test
   tags:
-    - portal
+    - test
 spec:
   owner: team-a
-  domain: artists
+  domain: test
   type: service
