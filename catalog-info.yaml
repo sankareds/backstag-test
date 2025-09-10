@@ -1,5 +1,5 @@
-apiVersion: backstage.io/v1alpha1
-kind: Component
+apiVersion: example.com/v1alpha1
+kind: Product
 metadata:
   name: "test"
   annotations:
