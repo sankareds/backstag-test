@@ -1,4 +1,4 @@
-apiVersion: products.backstage.io/v1beta3
+apiVersion: dowjones.io/v1beta3
 kind: Product
 metadata:
   name: "test"
